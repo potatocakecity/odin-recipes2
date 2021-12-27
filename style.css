@@ -1,0 +1,30 @@
+.header {
+    background-color: rgba(255, 0, 0, 0.3);
+    color: white;
+    font-size: 48px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 300px
+}
+
+.header3 {
+    background-color: pink;
+    color: darkblue
+}
+
+.header4 {
+    background-color: darkblue;
+    color: pink
+}
+
+.list-back {
+    background-color: pink;
+}
+
+.para {
+    font-weight: bold;
+    font-size: 22px;
+}
